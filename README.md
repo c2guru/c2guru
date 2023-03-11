@@ -6,14 +6,22 @@ I'm very talented with Web Frontend | Backend | Hybrid App | Mobile App developm
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/c2guru/c2guru">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c2guru&hide=java,html,css&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark&langs_count=3" height="200" />
-</a>
-<a href="https://github.com/c2guru/c2guru">
-  <img src="https://github-readme-stats.vercel.app/api?username=c2guru&show_icons=true&line_height=27&count_private=true&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" alt="J.Mark's GitHub Stats" height="200" />
-</a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=guilyx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+<p align="center">
+  <a href="https://github.com/c2guru/c2guru">
+    <img src="https://github-readme-stats.vercel.app/api?username=c2guru&show_icons=true&line_height=27&count_private=true&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" alt="J.Mark's GitHub Stats" align="center" />
+  </a>
+</p>
 
 ## 🔧 Programming Languages
+
+<p align="center">
+  <a href="https://github.com/c2guru/c2guru">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c2guru&hide=java,html,css&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark&langs_count=6&layout=compact" />
+  </a>
+</div>
 
 <div>
   <a href="https://github.com/c2guru">
