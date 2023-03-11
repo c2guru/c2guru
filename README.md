@@ -4,6 +4,10 @@ Nice to meet you! 🤗 <br/>
 I'm very talented with Web Frontend | Backend | Hybrid App | Mobile App development As Full-stack developer.
 </p>
 
+<p align="center">
+  <img src="https://github.com/c2guru/c2guru/blob/main/pc.gif">
+</p>
+
 ## &#x1f4c8; GitHub Stats
 
 <p align="center">
@@ -16,12 +20,6 @@ I'm very talented with Web Frontend | Backend | Hybrid App | Mobile App developm
 </p>
 
 ## 🔧 Programming Languages
-
-<p align="center">
-  <a href="https://github.com/c2guru/c2guru">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c2guru&hide=java,html,css&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark&langs_count=6&layout=compact" />
-  </a>
-</div>
 
 <div>
   <a href="https://github.com/c2guru">
@@ -108,9 +106,10 @@ I'm very talented with Web Frontend | Backend | Hybrid App | Mobile App developm
 </div>
 
 <p align="center">
-  <img src="https://github.com/c2guru/c2guru/blob/main/pc.gif">
+  <a href="https://github.com/c2guru/c2guru">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c2guru&hide=java,html,css&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark&langs_count=6&layout=compact" />
+  </a>
 </p>
-  
 
 
 
