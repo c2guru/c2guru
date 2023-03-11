@@ -1,12 +1,17 @@
 <h1>Hi, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hey! I'm Chris, Web & Mobile Developer </h1>
 <p align="left">
 Nice to meet you! 🤗 <br/>
-I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js | MERN | MEAN As Full-stack developer.
+I'm very talented with Web Frontend | Backend | Hybrid App | Mobile App development As Full-stack developer.
 </p>
 
-<p align="right">
-  <img src="https://github.com/c2guru/c2guru/blob/main/code.gif">
-</p>
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/c2guru/c2guru">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c2guru&hide=java,html,css&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark&langs_count=3" height="200" />
+</a>
+<a href="https://github.com/c2guru/c2guru">
+  <img src="https://github-readme-stats.vercel.app/api?username=c2guru&show_icons=true&line_height=27&count_private=true&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" alt="J.Mark's GitHub Stats" height="200" />
+</a>
 
 ## 🔧 Programming Languages
 
@@ -94,14 +99,9 @@ I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js | MERN | MEA
   </a>
 </div>
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/c2guru/c2guru">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c2guru&hide=java,html,css&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark&langs_count=3" height="200" />
-</a>
-<a href="https://github.com/c2guru/c2guru">
-  <img src="https://github-readme-stats.vercel.app/api?username=c2guru&show_icons=true&line_height=27&count_private=true&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" alt="J.Mark's GitHub Stats" height="200" />
-</a>
+<p align="center">
+  <img src="https://github.com/c2guru/c2guru/blob/main/pc.gif">
+</p>
   
 
 
