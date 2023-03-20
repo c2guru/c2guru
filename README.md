@@ -15,7 +15,7 @@ I'm very talented with Web Frontend | Backend | Hybrid App | Mobile App developm
 </p>
 <p align="center">
   <a href="https://github.com/c2guru/c2guru">
-    <img src="https://github-readme-stats.vercel.app/api?username=c2guru&show_icons=true&line_height=27&count_private=true&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" alt="J.Mark's GitHub Stats" align="center" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=c2guru&show_icons=true&line_height=27&count_private=true&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" alt="J.Mark's GitHub Stats" align="center" />
   </a>
 </p>
 
@@ -107,7 +107,7 @@ I'm very talented with Web Frontend | Backend | Hybrid App | Mobile App developm
 
 <p align="center">
   <a href="https://github.com/c2guru/c2guru">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c2guru&hide=java,html,css&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark&langs_count=6&layout=compact" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=c2guru&hide=java,html,css&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark&langs_count=6&layout=compact" />
   </a>
 </p>
 
