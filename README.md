@@ -5,7 +5,7 @@ I'm very talented with Web Frontend | Backend | Hybrid App | Mobile App developm
 </p>
 
 <p align="center">
-  <img src="https://github.com/c2guru/c2guru/blob/main/pc.gif">
+  <img src="https://github.com/c2guru/c2guru/blob/main/software_devlope.gif">
 </p>
 
 ## &#x1f4c8; GitHub Stats
